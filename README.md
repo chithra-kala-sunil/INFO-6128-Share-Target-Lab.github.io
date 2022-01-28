@@ -1,1 +1,2 @@
-# INFO-6128-Share-Target-Lab.github.io
+# pwa-boilerplate
+Basic vanilla PWA boilerplate repository
